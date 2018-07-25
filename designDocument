@@ -1,0 +1,59 @@
+# Dandelion Network
+
+Dandelion is an app to help girls and women keep in touch and connect on a deeper level in the form of personal and group mentorship. 
+​
+## Audience
+[Who cares/uses it? Why?]
+
+For people who are girls/women/young ladies and who are in the tech industry and/or have an interest in the tech industry and want to mentor or are in need of a mentor. 
+​
+## Experience
+A user opens the app to connect with a mentor or mentee, offers seamless experience into planning and meeting up with prospective mentor/mentee.                                     
+​
+# Technical
+## Models
+[What data are we dealing with? What classes will we create for that data?]
+
+Firebase (To login in)
+-first name
+-last name
+-email
+-password
+-city
+-role
+-250 word profile
+
+## Views
+[What custom views do we need to create? Include pictures of your prototypes/sketches!]
+​
+
+
+## Controllers
+[What controllers will we need? What will they do?]
+
+Login view controller
+Messaging view controller
+Check network view controller
+​
+
+## Other
+[Any other frameworks / things we will need? Helpers? Services?]
+​
+-Possibly Map API
+
+# Weekly Milestones
+
+## Week 1
+Basic Prototype - implement login, browse, requests, (use email within profile)
+
+TUESDAY - login screen
+WEDNESDAY - browse
+THURSDAY - browse
+FRIDAY - requests
+SATURDAY - requests
+
+## Week 2
+Shippable Prototype - implement chat, group chat and map api
+
+## Week 3
+Ship/Polish - 
